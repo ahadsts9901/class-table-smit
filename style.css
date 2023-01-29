@@ -1,0 +1,83 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    font-size: 1em;
+}
+
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+th{
+    text-align: center;
+}
+
+.namaz{
+    text-align: center;
+    background-color: rgb(189, 247, 237);
+}
+
+.sirghous{
+    text-align: center;
+    background-color: rgb(216, 145, 145);
+}
+
+.sirhaider{
+    text-align: center;
+    background-color: rgb(157, 197, 224);
+}
+
+.sirinzamam{
+    text-align: center;
+    background-color: rgb(104, 221, 167);
+}
+
+.sirqasim{
+    text-align: center;
+    background-color: rgb(228, 228, 151);
+}
+
+.missiqra{
+    text-align: center;
+    background-color: rgb(166, 201, 110);
+}
+
+.sirrizwan{
+    text-align: center;
+    background-color: bisque;
+}
+
+.sirbilal{
+    text-align: center;
+    background-color: rgb(190, 162, 218);
+}
+
+.missqurtulain{
+    text-align: center;
+    background-color: rgb(190, 190, 190);
+}
+
+.sirishaq{
+    text-align: center;
+    background-color: rgb(234, 156, 236);
+}
+
+.sirnadir{
+    text-align: center;
+    background-color: rgb(218, 179, 97);
+}
+
+.hr{
+    border: 1px solid black;
+}
+
+p{font-weight: bold;
+}
